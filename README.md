@@ -50,3 +50,25 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 3. Install dependencies:
 
 pip install -r requirements.txt
+
+🚀 Usage
+
+Run the Streamlit app locally:
+
+streamlit run app.py
+
+
+Or access the live deployment here:
+House Rent Price Prediction App
+
+Enter house details (BHK, Size, Location) and get the estimated monthly rent instantly.
+
+🛠️ Tech Stack
+
+Language: Python
+
+Libraries: pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn, streamlit
+
+ML Models: Gradient Boosting Regressor, XGBoost (optional)
+
+Deployment: Streamlit
