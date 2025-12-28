@@ -53,15 +53,15 @@ pip install -r requirements.txt
 
 🚀 Usage
 
-Run the Streamlit app locally:
+1. Run the Streamlit app locally:
 
 streamlit run app.py
 
 
-Or access the live deployment here:
-House Rent Price Prediction App
+2. Or access the live deployment here:
+https://house-rent-price-prediction.streamlit.app/
 
-Enter house details (BHK, Size, Location) and get the estimated monthly rent instantly.
+3. Enter house details (BHK, Size, Location) and get the estimated monthly rent instantly.
 
 🛠️ Tech Stack
 
